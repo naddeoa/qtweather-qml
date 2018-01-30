@@ -1,0 +1,45 @@
+qtweather-qml (1.0.0) stable; urgency=low
+
+  * Completely changed the interface from previous versions
+  * Reduced the overall size of the application's download
+  * Made icon harmattan compliant (any designers are welcome to help me out ;) )
+  * Full portrait and landscape support
+  
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sat, 16 Jul 2011 10:07:05 -0400
+
+qtweather-qml (0.0.4-3) stable; urgency=high
+
+  * Changed the location that the xml is downloaded from. Applications that are not upgraded will stop working in one week
+  
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Thu, 30 Jun 2011 22:07:05 -0400
+
+qtweather-qml (0.0.4-2) stable; urgency=low
+
+  * fixed bug with not being able to set your zipcode in the settings screen
+  * Optified package
+  * added mcsp as dependency
+  
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Thu, 30 Jun 2011 19:07:05 -0400
+  
+qtweather-qml (0.0.4) stable; urgency=low
+
+  * Fixed bug with the webpage link
+  
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 21:07:05 -0400
+
+qtweather-qml (0.0.3) unstable; urgency=low
+
+  * Made graphs scrollable
+  * Fixed graph transitions
+  * Added input mask to zipcode entries
+  * Fixed loading screen size
+  * Fixed index selection on startup for default homes
+
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 19:07:05 -0400
+
+qtweather-qml (0.0.3) unstable; urgency=low
+
+  * Added "loading" image placeholder
+  * Initial Release.
+
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 19:07:05 -0400

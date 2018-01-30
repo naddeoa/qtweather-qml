@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/qtweather-qml/images/loading.png</file>
+        <file>qml/qtweather-qml/images/minimize.png</file>
+        <file>qml/qtweather-qml/images/precip.png</file>
+        <file>qml/qtweather-qml/images/rain.png</file>
+        <file>qml/qtweather-qml/images/settings.png</file>
+        <file>qml/qtweather-qml/images/snow.png</file>
+        <file>qml/qtweather-qml/images/temp.png</file>
+        <file>qml/qtweather-qml/images/web.png</file>
+        <file>qml/qtweather-qml/images/wind.png</file>
+        <file>qml/qtweather-qml/images/loading-big.png</file>
+    </qresource>
+</RCC>

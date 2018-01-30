@@ -1,0 +1,22 @@
+qtweather-qml (0.0.4) stable; urgency=low
+
+  * Fixed bug with the webpage link
+  
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 21:07:05 -0400
+
+qtweather-qml (0.0.4) unstable; urgency=low
+
+  * Made graphs scrollable
+  * Fixed graph transitions
+  * Added input mask to zipcode entries
+  * Fixed loading screen size
+  * Fixed index selection on startup for default homes
+
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 19:07:05 -0400
+
+qtweather-qml (0.0.4) unstable; urgency=low
+
+  * Added "loading" image placeholder
+  * Initial Release.
+
+ -- Anthony Naddeo <anthony.naddeo@gmail.com>  Sun, 10 Apr 2011 19:07:05 -0400
